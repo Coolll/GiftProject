@@ -4,7 +4,8 @@
 //
 //  Created by 龙培 on 17/6/15.
 //  Copyright © 2017年 龙培. All rights reserved.
-//
+// 项目思路梳理：http://www.jianshu.com/p/f6fdf467b7f0
+// 使用项目有问题时请到这里提issue：https://github.com/Coolll/GiftProject
 
 #import "ViewController.h"
 #import "CarImageView.h"
